@@ -1,12 +1,12 @@
 # PiesSimpleNethack
----
+
 >About Pie's Simple NetHack.
 
-编译与运行
+## 编译与运行
 
 该NetHack游戏在Windows Visual Studio开发平台上（大材小用地）编写、编译。通过新建项目解决方案，逐一添加头文件以及源代码文件，再执行项目，由VS自动完成源文件的编译和链接，再进行调试与运行。
 
-玩法
+## 玩法
 
 Attention：请将程序运行窗口默认大小调至120x45以上再行运行，以防影响打印效果
 
